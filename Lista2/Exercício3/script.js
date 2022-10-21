@@ -9,7 +9,7 @@ function imprime(){
     if(num2 > num1){
         resultado.innerHTML=(`${num2} é maior que ${num1}`)
     }
-    else{
+    else{tu
         resultado.innerHTML=(`${num2} é igual a ${num1}`)
     }
 }
